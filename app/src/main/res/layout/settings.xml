@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/et_college_username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:drawableLeft="@drawable/username"
+        android:hint="校园网账号"
+        android:text="" />
+
+    <EditText
+        android:id="@+id/et_college_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_college_username"
+        android:drawableLeft="@drawable/password"
+        android:hint="校园网密码"
+        android:password="true"
+        android:text="" />
+    
+     <CheckBox
+            android:id="@+id/auto_login"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_below="@id/et_college_password"
+            android:text="自动登录"
+            android:layout_marginTop="5dp"
+            android:textColor="#999999"
+        />
+
+    <Button
+        android:id="@+id/bind_collegenet"
+        android:layout_below="@id/auto_login"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/btn_login_selector"
+        android:text="绑定账号"
+        android:textColor="#fff" />
+    <Button
+        android:id="@+id/unbind_collegnet"
+        android:layout_below="@id/bind_collegenet"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/btn_login_selector"
+        android:text="解除绑定"
+        android:textColor="#fff" />
+  
+
+</RelativeLayout>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@android:color/white">
+
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentTop="true"
+            android:layout_above="@+id/ignored_view"
+            android:gravity="center">
+
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="120dp"
+            android:text=""
+            android:id="@+id/tv_connectnet_info" android:layout_gravity="center" android:clickable="false"
+            android:textColor="#ffacacac" android:textSize="17sp" android:padding="5dp"/>
+        <ProgressBar 
+            android:id="@+id/pb_1"
+            android:layout_height="120dp"
+            android:layout_width="wrap_content"
+            android:padding="5dp"
+            android:layout_gravity="center"
+            android:visibility="gone"/>
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_selector"
+                android:textColor="@android:color/white"
+                android:text="手机连接校园网络"
+                android:textSize="17sp"
+                android:padding="12dp"
+                android:id="@+id/btn_moblie_link"
+                android:layout_gravity="center"
+                android:layout_marginTop="4dp"/>
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_selector"
+                android:textColor="@android:color/white"
+                android:text="断开手机网络连接"
+                android:textSize="17sp"
+                android:padding="12dp"
+                android:id="@+id/btn_moblie_unlink"
+                android:layout_gravity="center"
+                android:layout_marginTop="4dp"/>
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_selector"
+                android:textColor="@android:color/white"
+                android:text="断开全部网络连接"
+                android:textSize="17sp"
+                android:padding="12dp"
+                android:id="@+id/btn_moblie_unalllink"
+                android:layout_gravity="center"
+                android:layout_marginTop="4dp"/>
+
+    </LinearLayout>
+
+    <FrameLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="120dp"
+            android:padding="10dp"
+            android:layout_gravity="bottom"
+            android:id="@+id/ignored_view"
+            android:layout_alignParentBottom="true">
+
+        <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitXY"
+                android:src="@drawable/frame"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="左右滑动，可以发现更多功能哟"
+                android:textSize="17sp"
+                android:textColor="#9a9a9a"
+                android:id="@+id/textView1"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:padding="5dp"/>
+    </FrameLayout>
+
+</RelativeLayout>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/bean/Feedback.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/ActSendFeedbackFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/neucse/MenuActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/neucse/MyPushMessageReceiver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/DirectorySplit.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/HttpUtilNew.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/JIAMI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/SharedPreferencesUtil.java" charset="UTF-8" />
+  </component>
+</project>
