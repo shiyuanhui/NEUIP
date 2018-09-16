@@ -14,7 +14,7 @@ import javax.crypto.spec.SecretKeySpec;
 
 public class JIAMI {
 
-    private final static String HEX = "xxxxxx";//自己替换
+    private final static String HEX = "0123456789ABCDEF";//自己替换
 
     public static String encrypt(String seed, String cleartext) throws Exception {
         byte[] rawKey = getRawKey(seed.getBytes());

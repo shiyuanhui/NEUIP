@@ -10,147 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20f55968-e8b5-4712-ac2e-6aeaa0614e6e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__cn_bmob_android_bmob_push_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__cn_bmob_android_bmob_sdk_3_6_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__cn_bmob_android_http_legacy_1_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_collections_28_0_0_rc02_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_customview_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_loader_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_print_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_rc02_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_specyci_residemenu_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_11_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/NEUIP.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/shiyuanhui/neuip/ExampleInstrumentedTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/bean/Feedback.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/bean/PushMessage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/ActSendFeedbackFragment.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/HomeFragment.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/ProfileFragment.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/SettingsFragment.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/model/IUser.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/model/NetworkCallback.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/model/User.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/neucse/MenuActivity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/neucse/MyPushMessageReceiver.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/BasePresenter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/INetworkPresenter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/IPresenter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/NetworkPresenter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/DirectorySplit.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/JIAMI.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/SharedPreferencesUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/view/IBaseView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/view/INetworkView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn_login_selector.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_on.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_selector.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/frame.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/gesture.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/icon_calendar.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/icon_feedback.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/icon_home.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/icon_profile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/icon_settings.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/login_button_normal.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/login_button_press.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/menu_background.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/notify_logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/password.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/shadow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/title_bar_menu.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/title_bar_menu_on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/titlebar_menu_selector.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/username.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sendfeedback.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/home.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/main.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/residemenu_custom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/residemenu_custom_left_scrollview.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/residemenu_custom_right_scrollview.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/residemenu_item.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/test/java/com/shiyuanhui/neuip/ExampleUnitTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradle.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/HomeFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/HomeFragment.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/model/IUser.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/model/IUser.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/model/User.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/model/User.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/INetworkPresenter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/INetworkPresenter.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/NetworkPresenter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/NetworkPresenter.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/JIAMI.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/JIAMI.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/SharedPreferencesUtil.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/SharedPreferencesUtil.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_sendfeedback.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sendfeedback.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -173,37 +41,67 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="ActSendFeedbackFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/ActSendFeedbackFragment.java">
+      <file leaf-file-name="HomeFragment.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/HomeFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="88" column="17" lean-forward="false" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+            <state relative-caret-position="292">
+              <caret line="111" column="34" lean-forward="true" selection-start-line="111" selection-start-column="34" selection-end-line="111" selection-end-column="34" />
               <folding>
-                <element signature="e#2149#2370#0" expanded="true" />
-                <element signature="e#2369#2370#0" expanded="true" />
+                <element signature="e#3447#3741#0" expanded="true" />
+                <element signature="e#3740#3741#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
+      <file leaf-file-name="com.shiyuanhui.neuip_preferences.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/AndroidStudio/DeviceExplorer/Pixel_API_23 [emulator-5554]/data/data/com.shiyuanhui.neuip/shared_prefs/com.shiyuanhui.neuip_preferences.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="9" column="74" lean-forward="false" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="74" />
+            <state relative-caret-position="56">
+              <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomeFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/HomeFragment.java">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/model/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-939">
-              <caret line="79" column="19" lean-forward="false" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="19" />
+            <state relative-caret-position="96">
+              <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+              <folding>
+                <element signature="e#1069#1070#0" expanded="true" />
+                <element signature="e#1107#1108#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IUser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/model/IUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="13" column="62" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="INetworkPresenter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/INetworkPresenter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" column="66" lean-forward="false" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NetworkCallback.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/model/NetworkCallback.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -212,19 +110,12 @@
       <file leaf-file-name="NetworkPresenter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/NetworkPresenter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-308">
-              <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DirectorySplit.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/DirectorySplit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6">
-              <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-              <folding />
+            <state relative-caret-position="96">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding>
+                <element signature="e#1287#1288#0" expanded="true" />
+                <element signature="e#1360#1361#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -233,31 +124,10 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/SharedPreferencesUtil.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="17" column="71" lean-forward="false" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_sendfeedback.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_sendfeedback.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="26" column="26" lean-forward="false" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MenuActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/neucse/MenuActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4144">
-              <caret line="186" column="8" lean-forward="false" selection-start-line="186" selection-start-column="8" selection-end-line="186" selection-end-column="8" />
-              <folding />
+              <caret line="17" column="58" lean-forward="false" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+              <folding>
+                <element signature="e#1873#1889#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -266,7 +136,20 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/JIAMI.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+              <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_sendfeedback.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_sendfeedback.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -2316,28 +2199,29 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/ProfileFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/HttpUtilNew.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/model/NetworkCallback.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/model/IUser.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/view/IBaseView.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/view/INetworkView.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/IPresenter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/INetworkPresenter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/BasePresenter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/model/User.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/NetworkPresenter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/HomeFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/bean/PushMessage.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/neucse/MyPushMessageReceiver.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/neucse/MenuActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/DirectorySplit.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/JIAMI.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/SharedPreferencesUtil.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_sendfeedback.xml" />
+        <option value="$USER_HOME$/Documents/AndroidStudio/DeviceExplorer/Pixel_API_23 [emulator-5554]/data/data/com.shiyuanhui.neuip/shared_prefs/com.shiyuanhui.neuip_preferences.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/INetworkPresenter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/NetworkPresenter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/model/IUser.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/model/User.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/SharedPreferencesUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/JIAMI.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/HomeFragment.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -2359,7 +2243,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
@@ -2393,7 +2276,93 @@
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NEUIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NEUIP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shiyuanhui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NEUIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NEUIP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shiyuanhui" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NEUIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NEUIP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shiyuanhui" type="462c0819:PsiDirectoryNode" />
+              <item name="fragment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NEUIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NEUIP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shiyuanhui" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NEUIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NEUIP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shiyuanhui" type="462c0819:PsiDirectoryNode" />
+              <item name="neucse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NEUIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NEUIP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shiyuanhui" type="462c0819:PsiDirectoryNode" />
+              <item name="presenter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NEUIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NEUIP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shiyuanhui" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NEUIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NEUIP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NEUIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NEUIP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NEUIP" type="b2602c69:ProjectViewProjectNode" />
@@ -2408,6 +2377,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -2547,18 +2517,6 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="NEUIP" />
-      <envs />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -2608,6 +2566,18 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="NEUIP" />
+      <envs />
+    </configuration>
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
@@ -2629,7 +2599,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2639,21 +2609,21 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13452381" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29713604" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19978401" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36190477" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3615752" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19222462" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19222462" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08353222" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.71718377" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2675,219 +2645,49 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/HomeFragment.java</url>
-          <line>124</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/NetworkPresenter.java</url>
-          <line>24</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/neucse/MyPushMessageReceiver.java</url>
           <line>56</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/HomeFragment.java</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/HomeFragment.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/NetworkPresenter.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/SharedPreferencesUtil.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="10" />
+      <option name="time" value="14" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/bean/PushMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="e#246#247#0" expanded="false" />
-            <element signature="e#284#285#0" expanded="false" />
-            <element signature="e#314#315#0" expanded="false" />
-            <element signature="e#344#345#0" expanded="false" />
-            <element signature="e#370#371#0" expanded="false" />
-            <element signature="e#408#409#0" expanded="false" />
-            <element signature="e#438#439#0" expanded="false" />
-            <element signature="e#470#471#0" expanded="false" />
-            <element signature="e#498#499#0" expanded="false" />
-            <element signature="e#540#541#0" expanded="false" />
-            <element signature="e#574#575#0" expanded="false" />
-            <element signature="e#605#606#0" expanded="false" />
-            <element signature="e#632#633#0" expanded="false" />
-            <element signature="e#672#673#0" expanded="false" />
-            <element signature="e#704#705#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bmob-sdk-3.6.3.aar/365c3f0f3294573bc8bd828fbd56bc4b/jars/libs/BmobSDK_3.6.3_20180608.jar!/cn/bmob/v3/listener/BmobCallback.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <marker date="1536594014592" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1536594014592" expanded="false" signature="143:223" ph="..." />
-            <marker date="1536594014592" expanded="true" signature="288:295" ph="{}" />
-            <marker date="1536594014592" expanded="true" signature="323:330" ph="{}" />
-            <marker date="1536594014592" expanded="true" signature="359:366" ph="{}" />
-            <marker date="1536594014592" expanded="true" signature="400:758" ph="{...}" />
-            <marker date="1536594014592" expanded="true" signature="504:695" ph="{...}" />
-            <marker date="1536594014592" expanded="true" signature="522:579" ph="{...}" />
-            <marker date="1536594014592" expanded="false" signature="620:643" ph=" { " />
-            <marker date="1536594014592" expanded="false" signature="663:681" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bmob-sdk-3.6.3.aar/365c3f0f3294573bc8bd828fbd56bc4b/jars/libs/BmobSDK_3.6.3_20180608.jar!/cn/bmob/v3/listener/BmobCallback2.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <marker date="1536594014592" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1536594014592" expanded="true" signature="230:237" ph="{}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bmob-sdk-3.6.3.aar/365c3f0f3294573bc8bd828fbd56bc4b/jars/libs/BmobSDK_3.6.3_20180608.jar!/cn/bmob/v3/InstallationListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <marker date="1536594014592" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1536594014592" expanded="false" signature="134:211" ph="..." />
-            <marker date="1536594014592" expanded="true" signature="335:342" ph="{}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../sdk/platforms/android-28/android.jar!/android/os/Looper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding>
-            <marker date="1533468298289" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1533468298289" expanded="false" signature="197:208" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="244:250" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="284:295" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="331:337" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="381:392" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="428:434" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="476:487" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="523:529" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="560:571" ph=" { " />
-            <marker date="1533468298289" expanded="true" signature="607:613" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="650:661" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="697:703" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="745:756" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="792:798" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="836:847" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="883:889" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="941:952" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="988:994" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="1018:1029" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1065:1071" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="1101:1112" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1148:1154" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="1185:1196" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1232:1238" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="1274:1285" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1321:1327" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="1376:1387" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1423:1429" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="1459:1470" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1506:1512" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../sdk/platforms/android-28/android.jar!/android/os/Handler.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
-          <folding>
-            <marker date="1533468298289" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1533468298289" expanded="false" signature="200:211" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="247:253" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="300:311" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="347:353" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="388:399" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="435:441" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="504:556" ph="{...}" />
-            <marker date="1533468298289" expanded="false" signature="600:611" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="647:653" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="699:710" ph=" { " />
-            <marker date="1533468298289" expanded="true" signature="746:752" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="806:817" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="853:859" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="941:993" ph="{...}" />
-            <marker date="1533468298289" expanded="false" signature="1044:1055" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1091:1097" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="1139:1150" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1186:1192" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="1242:1253" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1289:1295" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="1358:1410" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="1481:1533" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="1616:1668" ph="{...}" />
-            <marker date="1533468298289" expanded="false" signature="1711:1722" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1758:1764" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="1833:1885" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="1968:2020" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="2089:2141" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="2224:2276" ph="{...}" />
-            <marker date="1533468298289" expanded="false" signature="2333:2344" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="2380:2386" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="2437:2448" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="2484:2490" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="2556:2608" ph="{...}" />
-            <marker date="1533468298289" expanded="false" signature="2659:2670" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="2706:2712" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="2765:2776" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="2812:2818" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="2897:2949" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="3028:3080" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="3157:3209" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="3280:3332" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="3398:3450" ph="{...}" />
-            <marker date="1533468298289" expanded="false" signature="3498:3509" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="3545:3551" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="3615:3667" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="3732:3784" ph="{...}" />
-            <marker date="1533468298289" expanded="false" signature="3832:3843" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="3879:3885" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="3949:4001" ph="{...}" />
-            <marker date="1533468298289" expanded="false" signature="4038:4049" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="4085:4091" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="4146:4157" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="4193:4199" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="4229:4240" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="4276:4282" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="4314:4366" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2895,147 +2695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
           <caret line="204" column="72" lean-forward="false" selection-start-line="204" selection-start-column="72" selection-end-line="204" selection-end-column="72" />
-          <folding>
-            <marker date="1533468298289" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1533468298289" expanded="false" signature="135:521" ph="..." />
-            <marker date="1533468298289" expanded="false" signature="711:722" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="758:764" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="808:819" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="855:861" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="886:897" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="933:939" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="966:977" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1013:1019" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="1076:1087" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1123:1129" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="1189:1200" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1236:1242" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="1286:1297" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1333:1339" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="1395:1406" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1442:1448" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="1500:1511" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1547:1553" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="1597:1608" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1644:1650" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="1692:1703" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1739:1745" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="1774:1785" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1821:1827" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="1860:1871" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="1907:1913" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="1958:1969" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="2005:2011" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="2050:2061" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="2097:2103" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="2139:2150" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="2186:2192" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="2226:2237" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="2273:2279" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="2313:2324" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="2360:2366" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="2399:2410" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="2446:2452" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="2501:2512" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="2548:2554" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="2603:2614" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="2650:2656" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="2691:2702" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="2738:2744" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="2792:2803" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="2839:2845" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="2899:2910" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="2946:2952" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="3023:3075" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="3145:3197" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="3328:3380" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="3502:3554" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="3645:3697" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="3775:3827" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="3930:3982" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="4055:4107" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="4192:4244" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="4332:4384" ph="{...}" />
-            <marker date="1533468298289" expanded="false" signature="4429:4440" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="4476:4482" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="4527:4538" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="4574:4580" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="4624:4635" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="4671:4677" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="4725:4736" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="4772:4778" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="4830:4841" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="4877:4883" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="4942:4953" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="4989:4995" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="5164:5216" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="5374:5426" ph="{...}" />
-            <marker date="1533468298289" expanded="false" signature="5484:5495" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="5531:5537" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="5817:5869" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="6030:6082" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="6155:6207" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="6315:6367" ph="{...}" />
-            <marker date="1533468298289" expanded="false" signature="6425:6436" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="6472:6478" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="6577:6629" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="6763:6815" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="6892:6944" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="7056:7108" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="7184:7236" ph="{...}" />
-            <marker date="1533468298289" expanded="false" signature="7292:7303" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="7339:7345" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="7403:7414" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="7450:7456" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="7513:7524" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="7560:7566" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="7621:7632" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="7668:7674" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="7760:7812" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="7936:7988" ph="{...}" />
-            <marker date="1533468298289" expanded="false" signature="8044:8055" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="8091:8097" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="8160:8212" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="8218:8236" ph="/**...*/" />
-            <marker date="1533468298289" expanded="false" signature="8289:8300" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="8336:8342" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="8348:8366" ph="/**...*/" />
-            <marker date="1533468298289" expanded="false" signature="8418:8429" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="8465:8471" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="8507:8518" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="8554:8560" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="8597:8608" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="8644:8650" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="8693:8704" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="8740:8746" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="8798:8809" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="8845:8851" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="8918:8970" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="9017:9347" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="9084:9144" ph="{...}" />
-            <marker date="1533468298289" expanded="false" signature="9180:9195" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="9231:9241" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="9280:9295" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="9331:9341" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="9389:10743" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="9496:9556" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="9655:9715" ph="{...}" />
-            <marker date="1533468298289" expanded="false" signature="9749:9764" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="9800:9810" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="9857:9872" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="9908:9918" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="9984:10044" ph="{...}" />
-            <marker date="1533468298289" expanded="false" signature="10087:10102" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="10138:10148" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="10184:10199" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="10235:10245" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="10294:10309" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="10345:10355" ph=" }" />
-            <marker date="1533468298289" expanded="false" signature="10404:10419" ph=" { " />
-            <marker date="1533468298289" expanded="false" signature="10455:10465" ph=" }" />
-            <marker date="1533468298289" expanded="true" signature="10538:10598" ph="{...}" />
-            <marker date="1533468298289" expanded="true" signature="10677:10737" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3043,7 +2702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="1132" column="0" lean-forward="false" selection-start-line="1132" selection-start-column="0" selection-end-line="1132" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3051,29 +2709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <marker date="1536594014592" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1536594014592" expanded="false" signature="134:360" ph="..." />
-            <marker date="1536594014592" expanded="true" signature="507:814" ph="{...}" />
-            <marker date="1536594014592" expanded="true" signature="853:860" ph="{}" />
-            <marker date="1536594014592" expanded="true" signature="915:1037" ph="{...}" />
-            <marker date="1536594014592" expanded="true" signature="1127:1668" ph="{...}" />
-            <marker date="1536594014592" expanded="true" signature="1399:1503" ph="{...}" />
-            <marker date="1536594014592" expanded="true" signature="1413:1493" ph="{...}" />
-            <marker date="1536594014592" expanded="true" signature="1556:1660" ph="{...}" />
-            <marker date="1536594014592" expanded="true" signature="1570:1650" ph="{...}" />
-            <marker date="1536594014592" expanded="false" signature="1714:1725" ph=" { " />
-            <marker date="1536594014592" expanded="false" signature="1776:1782" ph=" }" />
-            <marker date="1536594014592" expanded="true" signature="1887:1964" ph="{...}" />
-            <marker date="1536594014592" expanded="true" signature="2076:2463" ph="{...}" />
-            <marker date="1536594014592" expanded="true" signature="2570:2649" ph="{...}" />
-            <marker date="1536594014592" expanded="true" signature="2763:3150" ph="{...}" />
-            <marker date="1536594014592" expanded="true" signature="3271:3629" ph="{...}" />
-            <marker date="1536594014592" expanded="true" signature="3391:3495" ph="{...}" />
-            <marker date="1536594014592" expanded="true" signature="3405:3485" ph="{...}" />
-            <marker date="1536594014592" expanded="true" signature="3548:3621" ph="{...}" />
-            <marker date="1536594014592" expanded="true" signature="3562:3611" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3089,65 +2724,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/profile.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1008">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/result.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/other.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/zhuxiao.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/profile.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/result.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/main.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/other.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/zhuxiao.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/settings.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -3228,7 +2812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3236,7 +2819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3251,16 +2833,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher.png" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3268,7 +2845,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3276,7 +2852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3284,7 +2859,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3292,7 +2866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3329,86 +2902,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/ActSendFeedbackFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
+        <state relative-caret-position="2016">
           <caret line="88" column="17" lean-forward="false" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
-          <folding>
-            <element signature="e#2149#2370#0" expanded="true" />
-            <element signature="e#2369#2370#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="74" lean-forward="false" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/HomeFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-939">
-          <caret line="79" column="19" lean-forward="false" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/neucse/MenuActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4144">
+        <state relative-caret-position="4200">
           <caret line="186" column="8" lean-forward="false" selection-start-line="186" selection-start-column="8" selection-end-line="186" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/NetworkPresenter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-308">
-          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/DirectorySplit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
+        <state relative-caret-position="168">
           <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/JIAMI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-          <folding />
-        </state>
+    <entry file="file://$USER_HOME$/Documents/AndroidStudio/DeviceExplorer/Nexus_5X_API_28_x86 [emulator-5554]/data/data/com.shiyuanhui.neuip/shared_prefs/com.shiyuanhui.neuip_preferences.xml" />
+    <entry file="file://$USER_HOME$/Documents/AndroidStudio/DeviceExplorer/emulator-5556/data/data/com.shiyuanhui.neuip/shared_prefs/com.shiyuanhui.neuip_preferences.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
       </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/AndroidStudio/DeviceExplorer/Nexus_5X_API_28_x86 [emulator-5554]/data/data/com.shiyuanhui.neuip/shared_prefs/com.shiyuanhui.neuip_preferences.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/AndroidStudio/DeviceExplorer/emulator-5556/data/data/com.shiyuanhui.neuip/shared_prefs/com.shiyuanhui.neuip_preferences.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="9" column="74" lean-forward="false" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="74" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/SharedPreferencesUtil.java">
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="17" column="71" lean-forward="false" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+        <state relative-caret-position="728">
+          <caret line="26" column="42" lean-forward="false" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -3418,9 +2950,100 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="26" column="26" lean-forward="false" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        <state relative-caret-position="515">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/8cfdccf31a93e4e9535826c7733c6cb6/jars/classes.jar!/android/support/v4/app/FragmentManagerImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="1598" column="0" lean-forward="false" selection-start-line="1598" selection-start-column="0" selection-end-line="1598" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/model/NetworkCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/model/IUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="62" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/INetworkPresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="66" lean-forward="false" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/SharedPreferencesUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" column="58" lean-forward="false" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+          <folding>
+            <element signature="e#1873#1889#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/util/JIAMI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/AndroidStudio/DeviceExplorer/Pixel_API_23 [emulator-5554]/data/data/com.shiyuanhui.neuip/shared_prefs/com.shiyuanhui.neuip_preferences.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="e#1069#1070#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/presenter/NetworkPresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="e#1287#1288#0" expanded="true" />
+            <element signature="e#1360#1361#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/shiyuanhui/fragment/HomeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="111" column="34" lean-forward="true" selection-start-line="111" selection-start-column="34" selection-end-line="111" selection-end-column="34" />
+          <folding>
+            <element signature="e#3447#3741#0" expanded="true" />
+            <element signature="e#3740#3741#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

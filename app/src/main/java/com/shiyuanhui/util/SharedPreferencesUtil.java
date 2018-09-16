@@ -15,7 +15,7 @@ public class SharedPreferencesUtil {
 	private static SharedPreferencesUtil mSpUtil;
 	private static SharedPreferences mSharedPreferences;
 	private static SharedPreferences.Editor editor;
-	final static private String masterPassword = "aaaa";  //aes算法用，自己替换
+	final static private String masterPassword = "abceecde";  //aes算法用，自己替换
 
 	/*
 	 * 构造函数私有化
@@ -136,25 +136,6 @@ public class SharedPreferencesUtil {
 		return isAuto;
 	}
 
-	public byte[] getSalt()
-	{
-		String salt = mSharedPreferences.getString("salt", "");
-		try {
-			return salt.getBytes("UTF-8");
-		} catch (UnsupportedEncodingException e) {
-			e.printStackTrace();
-		}
-		return null;
-	}
 
-	public void setSalt(byte[] salt)
-	{
-		try {
-			editor.putString("salt",new String(salt,"UTF-8"));
-		} catch (UnsupportedEncodingException e) {
-			e.printStackTrace();
-		}
-		editor.commit();
-	}
 
 }

@@ -29,11 +29,11 @@ public class NetworkPresenter extends BasePresenter<INetworkView> implements INe
     }
 
     @Override
-    public void connctNetwork() {
+    public void connctNetwork(SharedPreferencesUtil sharedPreferencesUtil) {
         try {
             checkViewAttach();
             final INetworkView iNetworkView = getView();
-            user.connectNetwork(username, password, new NetworkCallback() {
+            user.connectNetwork(username, password,sharedPreferencesUtil,new NetworkCallback() {
                 @Override
                 public void onSuccess(String success) {
                     iNetworkView.showMessage(success);

@@ -2,6 +2,8 @@ package com.shiyuanhui.model;
 
 import android.text.TextUtils;
 
+import com.shiyuanhui.util.SharedPreferencesUtil;
+
 import java.io.IOException;
 import java.text.DecimalFormat;
 
@@ -42,7 +44,7 @@ public class User implements IUser {
 
 
     @Override
-    public void connectNetwork(final String userName, String password, final NetworkCallback callback) {
+    public void connectNetwork(final String userName, String password, final SharedPreferencesUtil sharedPreferencesUtil,final NetworkCallback callback) {
         RequestBody body = new FormBody.Builder()
                 .add("action", "login")
                 .add("ac_id", "1")
@@ -69,7 +71,7 @@ public class User implements IUser {
                 String resString = response.body().string();
                 if(resString.indexOf("网络已连接") != -1)
                 {
-                    getAcount(callback);
+                    getAcount(sharedPreferencesUtil,callback);
                 }
                 else {
                     if(resString.indexOf("密码错误") != -1)
@@ -186,7 +188,7 @@ public class User implements IUser {
      * @return
      */
     @Override
-    public void getAcount(final NetworkCallback callback)
+    public void getAcount(final SharedPreferencesUtil sharedPreferencesUtil, final NetworkCallback callback)
     {
         final int k = (int)Math.floor(Math.random() * ( 100000 + 1));//k的值看校园网源码函数栈时看到是这个函数
         RequestBody body = new FormBody.Builder()
@@ -228,6 +230,8 @@ public class User implements IUser {
 
                         moneyLeft += information[2];//余额
                         ipAddress += information[5];//ip地址
+
+                        sharedPreferencesUtil.saveIPAddress(ipAddress);
 
                         StringBuilder stringBuilder = new StringBuilder();
                         stringBuilder.append("网络已连接\n")

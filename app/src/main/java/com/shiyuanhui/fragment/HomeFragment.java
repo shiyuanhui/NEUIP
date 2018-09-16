@@ -5,6 +5,7 @@ package com.shiyuanhui.fragment;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentActivity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -65,13 +66,13 @@ public class HomeFragment extends Fragment implements OnClickListener,INetworkVi
         resideMenu.addIgnoredView(ignored_view);
 
         InitSharedPreference();
-        if(preferencesUtil.getIsAutoIn()){
-        	btn_moblie_link.performClick();
-        }
-
 
         networkPresenter = new NetworkPresenter(User.getInstance(),preferencesUtil);
         networkPresenter.attachView(this);
+
+        if(preferencesUtil.getIsAutoIn()){
+            btn_moblie_link.performClick();
+        }
     }
 
 	@Override
@@ -81,7 +82,7 @@ public class HomeFragment extends Fragment implements OnClickListener,INetworkVi
 		switch (v.getId()) {
 		case R.id.btn_moblie_link:
 		{
-			networkPresenter.connctNetwork();
+			networkPresenter.connctNetwork(preferencesUtil);
 		}
 			break;
         case R.id.btn_moblie_unlink:
@@ -102,14 +103,21 @@ public class HomeFragment extends Fragment implements OnClickListener,INetworkVi
 
     @Override
     public void showMessage(final String message) {
-        getActivity().runOnUiThread(new Runnable() {
-            @Override
-            public void run() {
-                tv_connect_information.setVisibility(View.VISIBLE);
-                progressBar.setVisibility(View.GONE);
-                tv_connect_information.setText(message);
-            }
-        });
+        //如果在请求网络时，activity退出，会导致回调报null异常，因此临时解决getActivity为空的情况
+        //实际上本方案不是很好
+       FragmentActivity fragmentActivity = getActivity();
+       if (fragmentActivity != null){
+           fragmentActivity.runOnUiThread(new Runnable() {
+               @Override
+               public void run() {
+                   tv_connect_information.setVisibility(View.VISIBLE);
+                   progressBar.setVisibility(View.GONE);
+                   tv_connect_information.setText(message);
+               }
+           });
+       }
+
+
 
     }
 
